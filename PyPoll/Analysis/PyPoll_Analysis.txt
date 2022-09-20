@@ -1,0 +1,12 @@
+Total Votes: 369711
+---------- 
+('Charles Casper Stockham', 170426)
+46.09708664335116%
+-----
+('Diana DeGette', 545784)
+147.62449589003305%
+-----
+('Raymon Anthony Doane', 23212)
+6.2784174666158155%
+-----
+ Winner: ['Diana DeGette']
